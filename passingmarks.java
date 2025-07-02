@@ -18,6 +18,5 @@ public class passingmarks {
             System.out.println("passed");
         }
 
-
     }
 }
